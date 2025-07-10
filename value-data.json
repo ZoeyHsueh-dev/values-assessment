@@ -1,0 +1,294 @@
+{
+  "categories": {
+    "work": {
+      "name": "工作追求",
+      "color": "category-work"
+    },
+    "self": {
+      "name": "自我與生活", 
+      "color": "category-self"
+    },
+    "relationship": {
+      "name": "人際關係",
+      "color": "category-relationship"
+    },
+    "virtue": {
+      "name": "美德價值",
+      "color": "category-virtue"
+    }
+  },
+  "values": [
+    {
+      "text": "有夥伴一起打拼",
+      "category": "work"
+    },
+    {
+      "text": "工作成就感",
+      "category": "work"
+    },
+    {
+      "text": "專業技能提升",
+      "category": "work"
+    },
+    {
+      "text": "領導他人",
+      "category": "work"
+    },
+    {
+      "text": "創新突破",
+      "category": "work"
+    },
+    {
+      "text": "工作穩定性",
+      "category": "work"
+    },
+    {
+      "text": "高薪收入",
+      "category": "work"
+    },
+    {
+      "text": "職位晉升",
+      "category": "work"
+    },
+    {
+      "text": "工作挑戰性",
+      "category": "work"
+    },
+    {
+      "text": "工作自主性",
+      "category": "work"
+    },
+    {
+      "text": "團隊合作",
+      "category": "work"
+    },
+    {
+      "text": "工作效率",
+      "category": "work"
+    },
+    {
+      "text": "專業認可",
+      "category": "work"
+    },
+    {
+      "text": "工作彈性",
+      "category": "work"
+    },
+    {
+      "text": "學習機會",
+      "category": "work"
+    },
+    {
+      "text": "工作環境舒適",
+      "category": "work"
+    },
+    {
+      "text": "影響力擴展",
+      "category": "work"
+    },
+    {
+      "text": "工作意義",
+      "category": "work"
+    },
+    {
+      "text": "個人成長",
+      "category": "self"
+    },
+    {
+      "text": "生活品質",
+      "category": "self"
+    },
+    {
+      "text": "健康維護",
+      "category": "self"
+    },
+    {
+      "text": "興趣愛好",
+      "category": "self"
+    },
+    {
+      "text": "自我實現",
+      "category": "self"
+    },
+    {
+      "text": "內心平靜",
+      "category": "self"
+    },
+    {
+      "text": "生活平衡",
+      "category": "self"
+    },
+    {
+      "text": "獨立自主",
+      "category": "self"
+    },
+    {
+      "text": "創意表達",
+      "category": "self"
+    },
+    {
+      "text": "精神充實",
+      "category": "self"
+    },
+    {
+      "text": "自我肯定",
+      "category": "self"
+    },
+    {
+      "text": "生活自由",
+      "category": "self"
+    },
+    {
+      "text": "身心健康",
+      "category": "self"
+    },
+    {
+      "text": "個人價值",
+      "category": "self"
+    },
+    {
+      "text": "自我探索",
+      "category": "self"
+    },
+    {
+      "text": "生活樂趣",
+      "category": "self"
+    },
+    {
+      "text": "個人風格",
+      "category": "self"
+    },
+    {
+      "text": "心靈成長",
+      "category": "self"
+    },
+    {
+      "text": "家庭和諧",
+      "category": "relationship"
+    },
+    {
+      "text": "友情珍貴",
+      "category": "relationship"
+    },
+    {
+      "text": "愛情美滿",
+      "category": "relationship"
+    },
+    {
+      "text": "社交活躍",
+      "category": "relationship"
+    },
+    {
+      "text": "人際信任",
+      "category": "relationship"
+    },
+    {
+      "text": "歸屬感",
+      "category": "relationship"
+    },
+    {
+      "text": "人際支持",
+      "category": "relationship"
+    },
+    {
+      "text": "溝通理解",
+      "category": "relationship"
+    },
+    {
+      "text": "人際和諧",
+      "category": "relationship"
+    },
+    {
+      "text": "情感連結",
+      "category": "relationship"
+    },
+    {
+      "text": "關懷他人",
+      "category": "relationship"
+    },
+    {
+      "text": "社群參與",
+      "category": "relationship"
+    },
+    {
+      "text": "人際尊重",
+      "category": "relationship"
+    },
+    {
+      "text": "同理心",
+      "category": "relationship"
+    },
+    {
+      "text": "互相扶持",
+      "category": "relationship"
+    },
+    {
+      "text": "人際溫暖",
+      "category": "relationship"
+    },
+    {
+      "text": "誠實正直",
+      "category": "virtue"
+    },
+    {
+      "text": "公平正義",
+      "category": "virtue"
+    },
+    {
+      "text": "責任感",
+      "category": "virtue"
+    },
+    {
+      "text": "感恩知足",
+      "category": "virtue"
+    },
+    {
+      "text": "助人為樂",
+      "category": "virtue"
+    },
+    {
+      "text": "寬容包容",
+      "category": "virtue"
+    },
+    {
+      "text": "謙虛學習",
+      "category": "virtue"
+    },
+    {
+      "text": "堅持不懈",
+      "category": "virtue"
+    },
+    {
+      "text": "勇於承擔",
+      "category": "virtue"
+    },
+    {
+      "text": "品格修養",
+      "category": "virtue"
+    },
+    {
+      "text": "道德操守",
+      "category": "virtue"
+    },
+    {
+      "text": "善良慈悲",
+      "category": "virtue"
+    },
+    {
+      "text": "正面思考",
+      "category": "virtue"
+    },
+    {
+      "text": "自律自制",
+      "category": "virtue"
+    },
+    {
+      "text": "服務奉獻",
+      "category": "virtue"
+    },
+    {
+      "text": "智慧理性",
+      "category": "virtue"
+    }
+  ]
+}

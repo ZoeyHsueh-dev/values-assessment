@@ -1,0 +1,14 @@
+{
+  "system": {
+    "title": "職涯價值觀測驗",
+    "description": "探索您最重要的價值觀，找到職涯方向"
+  },
+  "access": {
+    "code": "CAREER"
+  },
+  "settings": {
+    "minSelection": 10,
+    "finalSelection": 10,
+    "randomizeCards": false
+  }
+}

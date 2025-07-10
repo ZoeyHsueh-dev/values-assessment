@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>職涯價值觀測驗</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1 id="systemTitle">職涯價值觀測驗</h1>
+            <p id="systemDescription">探索您最重要的價值觀，找到職涯方向</p>
+        </div>
+
+        <!-- 載入中 -->
+        <div id="loadingSection" class="loading">
+            載入中，請稍候...
+        </div>
+
+        <!-- 代碼輸入階段 -->
+        <div id="loginSection" class="login-section hidden">
+            <div class="instruction">
+                <h3>使用說明</h3>
+                <p>請輸入測驗代碼以開始測驗。</p>
+            </div>
+            <input type="text" id="codeInput" class="code-input" placeholder="輸入代碼">
+            <br>
+            <button id="startBtn" class="btn btn-primary">開始測驗</button>
+            <div id="errorMessage" class="error-message hidden"></div>
+        </div>
+
+        <!-- 第一階段：選擇價值觀 -->
+        <div id="selectionSection" class="hidden">
+            <h2 class="phase-title">請選擇對您重要的價值觀</h2>
+            <div class="instruction">
+                <p>請從以下價值觀中選擇至少10個對您來說重要的項目。</p>
+            </div>
+            <div class="selection-counter">
+                已選擇：<span id="selectedCount">0</span> 個
+            </div>
+            <div id="cardsGrid" class="cards-grid"></div>
+            <div style="text-align: center; margin: 30px 0;">
+                <button id="nextBtn" class="btn btn-primary" disabled>下一步</button>
+            </div>
+        </div>
+
+        <!-- 第二階段：縮減選擇 -->
+        <div id="reductionSection" class="hidden">
+            <h2 class="phase-title">請從已選擇的項目中選出最重要的10個</h2>
+            <div class="instruction">
+                <p>您選擇了超過10個項目，請從中選出最重要的10個價值觀。如果選擇仍超過10個，將進入下一輪選擇。</p>
+            </div>
+            <div class="selection-counter">
+                已選擇：<span id="reducedCount">0</span> 個
+            </div>
+            <div id="selectedCards" class="cards-grid"></div>
+            <div style="text-align: center; margin: 30px 0;">
+                <button id="rankBtn" class="btn btn-primary" disabled>開始排序</button>
+            </div>
+        </div>
+
+        <!-- 第三階段：排序 -->
+        <div id="rankingSection" class="hidden">
+            <h2 class="phase-title">請為您的價值觀排序（1-10名）</h2>
+            <div class="instruction">
+                <p>請拖曳卡片進行排序，最重要的放在最上面。</p>
+            </div>
+            <div id="rankingArea" class="ranking-area"></div>
+            <div style="text-align: center; margin: 30px 0;">
+                <button id="submitBtn" class="btn btn-primary">完成測驗</button>
+            </div>
+        </div>
+
+        <!-- 結果顯示 -->
+        <div id="resultsSection" class="hidden">
+            <h2 class="phase-title">您的價值觀測驗結果</h2>
+            
+            <h3 style="text-align: center; margin: 30px 0; color: #333;">前三名最重要的價值觀</h3>
+            <div id="topThree" class="top-three"></div>
+            
+            <h3 style="text-align: center; margin: 30px 0; color: #333;">第四至十名</h3>
+            <div id="remainingValues" class="remaining-values"></div>
+            
+            <h3 style="text-align: center; margin: 30px 0; color: #333;">價值觀分類統計</h3>
+            <div id="categorySummary" class="category-summary"></div>
+            
+            <div class="success-message">
+                <strong>測驗完成！</strong> 感謝您的參與。
+            </div>
+            
+            <div style="text-align: center;" class="restart-btn">
+                <button id="restartBtn" class="btn btn-secondary">重新開始測驗</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
