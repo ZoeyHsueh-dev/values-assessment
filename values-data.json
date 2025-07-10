@@ -19,23 +19,11 @@
   },
   "values": [
     {
-      "text": "有夥伴一起打拼",
+      "text": "晉升的機會與速度",
       "category": "work"
     },
     {
-      "text": "工作成就感",
-      "category": "work"
-    },
-    {
-      "text": "專業技能提升",
-      "category": "work"
-    },
-    {
-      "text": "領導他人",
-      "category": "work"
-    },
-    {
-      "text": "創新突破",
+      "text": "隨遇而安 順勢而為",
       "category": "work"
     },
     {
@@ -43,155 +31,211 @@
       "category": "work"
     },
     {
-      "text": "高薪收入",
+      "text": "有效率、有效能",
       "category": "work"
     },
     {
-      "text": "職位晉升",
+      "text": "領導團隊",
       "category": "work"
     },
     {
-      "text": "工作挑戰性",
+      "text": "權威身份，擁有特定地位職權",
       "category": "work"
     },
     {
-      "text": "工作自主性",
+      "text": "有夥伴一起打拼",
       "category": "work"
     },
     {
-      "text": "團隊合作",
+      "text": "創新與創造",
       "category": "work"
     },
     {
-      "text": "工作效率",
+      "text": "負責 勇於承擔責任",
       "category": "work"
     },
     {
-      "text": "專業認可",
+      "text": "社會認可 受人尊重肯定",
       "category": "work"
     },
     {
-      "text": "工作彈性",
+      "text": "能被看見 有舞台能發光",
       "category": "work"
     },
     {
-      "text": "學習機會",
+      "text": "冒險挑戰",
       "category": "work"
     },
     {
-      "text": "工作環境舒適",
+      "text": "追求美感或藝術",
       "category": "work"
     },
     {
-      "text": "影響力擴展",
+      "text": "有成就感",
       "category": "work"
     },
     {
-      "text": "工作意義",
+      "text": "發揮自己的天賦能力",
       "category": "work"
     },
     {
-      "text": "個人成長",
-      "category": "self"
+      "text": "安全感，工作上或心理面可預測或可掌控",
+      "category": "work"
     },
     {
-      "text": "生活品質",
-      "category": "self"
-    },
-    {
-      "text": "健康維護",
-      "category": "self"
-    },
-    {
-      "text": "興趣愛好",
-      "category": "self"
-    },
-    {
-      "text": "自我實現",
-      "category": "self"
-    },
-    {
-      "text": "內心平靜",
-      "category": "self"
-    },
-    {
-      "text": "生活平衡",
-      "category": "self"
+      "text": "專業",
+      "category": "work"
     },
     {
       "text": "獨立自主",
+      "category": "work"
+    },
+    {
+      "text": "工作生活平衡",
+      "category": "work"
+    },
+    {
+      "text": "追求工作品質",
+      "category": "work"
+    },
+    {
+      "text": "邏輯清晰",
+      "category": "work"
+    },
+    {
+      "text": "清楚的流程與規範",
+      "category": "work"
+    },
+    {
+      "text": "務實 重視可行性",
+      "category": "work"
+    },
+    {
+      "text": "擁有自己的事業",
+      "category": "work"
+    },
+    {
+      "text": "對他人社會有影響力",
+      "category": "work"
+    },
+    {
+      "text": "有秩序與穩定的環境",
+      "category": "work"
+    },
+    {
+      "text": "解決他人的問題，幫助他人成長",
+      "category": "work"
+    },
+    {
+      "text": "資產與金錢",
+      "category": "work"
+    },
+    {
+      "text": "能持續自我成長",
+      "category": "work"
+    },
+    {
+      "text": "有明確的目標或方向",
+      "category": "work"
+    },
+    {
+      "text": "自我表達與呈現",
       "category": "self"
     },
     {
-      "text": "創意表達",
+      "text": "對生命、人性或人生的洞察智慧",
       "category": "self"
     },
     {
-      "text": "精神充實",
+      "text": "低調 不張揚",
       "category": "self"
     },
     {
-      "text": "自我肯定",
+      "text": "有獨處的空間",
       "category": "self"
     },
     {
-      "text": "生活自由",
+      "text": "追求真理與知性",
       "category": "self"
     },
     {
-      "text": "身心健康",
+      "text": "平凡的生活",
       "category": "self"
     },
     {
-      "text": "個人價值",
+      "text": "保持潔淨，身體、心理或環境",
       "category": "self"
     },
     {
-      "text": "自我探索",
+      "text": "能親近大自然",
       "category": "self"
     },
     {
-      "text": "生活樂趣",
+      "text": "保有隱私，不受人打擾",
       "category": "self"
     },
     {
-      "text": "個人風格",
+      "text": "有趣的人事物",
       "category": "self"
     },
     {
-      "text": "心靈成長",
+      "text": "忠於自我",
       "category": "self"
     },
     {
-      "text": "家庭和諧",
+      "text": "舒適的環境",
+      "category": "self"
+    },
+    {
+      "text": "內在的平靜",
+      "category": "self"
+    },
+    {
+      "text": "信仰、宗教或靈性的生活",
+      "category": "self"
+    },
+    {
+      "text": "享受生活、美食等休閒娛樂",
+      "category": "self"
+    },
+    {
+      "text": "健康的身體與心靈",
+      "category": "self"
+    },
+    {
+      "text": "自由自在不受拘束",
+      "category": "self"
+    },
+    {
+      "text": "規律的生活",
+      "category": "self"
+    },
+    {
+      "text": "自我肯定、喜歡自己",
+      "category": "self"
+    },
+    {
+      "text": "交友廣闊",
       "category": "relationship"
     },
     {
-      "text": "友情珍貴",
+      "text": "歸屬與認同，屬於某個身份或團體",
       "category": "relationship"
     },
     {
-      "text": "愛情美滿",
+      "text": "有小孩",
       "category": "relationship"
     },
     {
-      "text": "社交活躍",
+      "text": "深刻友誼",
       "category": "relationship"
     },
     {
-      "text": "人際信任",
+      "text": "能彼此尊重",
       "category": "relationship"
     },
     {
-      "text": "歸屬感",
-      "category": "relationship"
-    },
-    {
-      "text": "人際支持",
-      "category": "relationship"
-    },
-    {
-      "text": "溝通理解",
+      "text": "能好好照顧家人",
       "category": "relationship"
     },
     {
@@ -199,35 +243,43 @@
       "category": "relationship"
     },
     {
-      "text": "情感連結",
+      "text": "愛與被愛",
       "category": "relationship"
     },
     {
-      "text": "關懷他人",
+      "text": "獲得父母的認同",
       "category": "relationship"
     },
     {
-      "text": "社群參與",
+      "text": "有一個安穩的家",
       "category": "relationship"
     },
     {
-      "text": "人際尊重",
-      "category": "relationship"
+      "text": "社會公益 關懷弱勢",
+      "category": "virtue"
     },
     {
-      "text": "同理心",
-      "category": "relationship"
+      "text": "不欺騙 不說謊",
+      "category": "virtue"
     },
     {
-      "text": "互相扶持",
-      "category": "relationship"
+      "text": "尊重傳統延續歷史",
+      "category": "virtue"
     },
     {
-      "text": "人際溫暖",
-      "category": "relationship"
+      "text": "全人類的福祉",
+      "category": "virtue"
     },
     {
-      "text": "誠實正直",
+      "text": "保護環境或動植物",
+      "category": "virtue"
+    },
+    {
+      "text": "知恩圖報",
+      "category": "virtue"
+    },
+    {
+      "text": "國家主權 民族意識",
       "category": "virtue"
     },
     {
@@ -235,59 +287,15 @@
       "category": "virtue"
     },
     {
-      "text": "責任感",
+      "text": "忠誠",
       "category": "virtue"
     },
     {
-      "text": "感恩知足",
+      "text": "不要傷害別人",
       "category": "virtue"
     },
     {
-      "text": "助人為樂",
-      "category": "virtue"
-    },
-    {
-      "text": "寬容包容",
-      "category": "virtue"
-    },
-    {
-      "text": "謙虛學習",
-      "category": "virtue"
-    },
-    {
-      "text": "堅持不懈",
-      "category": "virtue"
-    },
-    {
-      "text": "勇於承擔",
-      "category": "virtue"
-    },
-    {
-      "text": "品格修養",
-      "category": "virtue"
-    },
-    {
-      "text": "道德操守",
-      "category": "virtue"
-    },
-    {
-      "text": "善良慈悲",
-      "category": "virtue"
-    },
-    {
-      "text": "正面思考",
-      "category": "virtue"
-    },
-    {
-      "text": "自律自制",
-      "category": "virtue"
-    },
-    {
-      "text": "服務奉獻",
-      "category": "virtue"
-    },
-    {
-      "text": "智慧理性",
+      "text": "真誠一致",
       "category": "virtue"
     }
   ]
